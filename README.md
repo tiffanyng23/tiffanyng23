@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @tiffanyng23
-- 👀 I’m interested in data analytics!!
-- 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on any data analytics related projects
-- 📫 How to reach me LinkedIn
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I started to get into crocheting recently!
+- Hi 👋 I’m Tiffany (she/her)!!
+I’m interested in data analytics and am currently doing projects to continue to develop my Python and SQL skills. Feel free to contact me through LinkedIn for any collaboration opportunities!!
+
 
 <!---
 tiffanyng23/tiffanyng23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
