@@ -1,5 +1,5 @@
 - Hi I’m Tiffany!!
-I’m interested in learning more about data analytics and am currently doing projects to continue to develop and improve my Python and SQL skills!
+I’m interested in learning more about data analytics and am currently doing projects to continue to improve my Python and SQL skills!
 
 
 <!---
