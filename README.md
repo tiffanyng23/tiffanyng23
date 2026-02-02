@@ -1,5 +1,5 @@
 - Hi I’m Tiffany!!
-I’m currently doing projects to continue to improve my programming skills! Currently learning C, Python, and SQL :)
+I’m currently doing projects to continue to improve my programming skills! Currently working on some data-focused projects using Python and SQL :)
 
 
 <!---
