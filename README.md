@@ -1,5 +1,6 @@
 - Hi I’m Tiffany!!
-I’m currently doing projects to continue to improve my programming skills! Currently working on some data-focused projects using Python and SQL :)
+I’m currently working on some data-focused projects using Python and SQL!
+Feel free to check out my earthquake tracker dashboard, this is my favourite project I've made so far :)
 
 
 <!---
