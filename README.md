@@ -1,5 +1,5 @@
 - Hi I’m Tiffany!!
-I’m currently working on some data-focused projects using Python and SQL!
+I’m currently working on some data-focused projects! My current favourites are my Earthquake Tracker and my Reimagined Spotify Artist Page!
 
 
 <!---
